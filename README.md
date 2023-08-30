@@ -1,7 +1,7 @@
 ### Hi everyone 👋
 
 - 🔭 I'm graduated in Business Administration (2013 - 2016) and System Analysis (2017- 2021)
-- I work as a Full Stack Developer since 2017.
+- I've been working as a Full Stack Developer since 2017.
 - 🌱 Experiences with: 
     * Java 8+, Spring Boot, Java EJB, Oracle DB, Apache Solr, NodeJS, JavaFX.
     * AngularJS, Angular 8, Javascript, TypeScript, JQuery.
